@@ -35,13 +35,14 @@ ul {
     min-height: 725px;
     height: 100%;
     background: #F1F7F6;
+    position: relative;
 }
 
 .header__container {
     /* display: flex;
     align-items: center;
     justify-content: space-between; */
-    position: relative;
+    
 }
 
 .header__content {
