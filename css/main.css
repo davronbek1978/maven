@@ -38,19 +38,10 @@ ul {
     position: relative;
 }
 
-.header__container {
-    /* display: flex;
-    align-items: center;
-    justify-content: space-between; */
-    
-}
-
 .header__content {
     display: flex;
     flex-direction: column;
     padding: 150px 0;
-    /* align-items: center;
-    justify-content: space-between; */
 }
 
 .header__content-title {
@@ -61,7 +52,6 @@ ul {
     color: var(--ternary-color);
     font-size: 58px;
     line-height: 67px;
-    /* padding-top: 264px; */
 }
 
 .header__form {
